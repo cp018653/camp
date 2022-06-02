@@ -1,8 +1,8 @@
-# <center>2022國防大學理工學院資工系1</center>
+# <center>2022國防大學理工學院資工系</center>
+## <center>小心駭客盯上你-資訊安全活動營</center>
 
-You can use the [editor on GitHub](https://github.com/cp018653/camp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 一、活動宗旨:
+  在我們的生活中，有許多事情都是在虛擬的網路世界上處理，舉凡購物消費、投資理財，或是社交聯繫等等，生活越發地便利。然而，在享受科技所帶來的便利的同時，人們與虛擬世界越來越近，資訊安全也與我們息息相關。因此活動營舉辦之宗旨在於，帶領同學們認識資訊安全，提升危機意識，做好資安防護，免於受到有心人士的侵害。
 
 ### Markdown
 
