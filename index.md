@@ -9,37 +9,23 @@
 ### 二、活動時間:
 線上授課 : 2022/07/02~2022/07/03
 **(因應疫情嚴峻，故本次活動將採線上授課方式進行)**
-
-
+<br>
+<br>
 ### 三、活動地點
 線上課程 : Webex(會議代碼待報名截止後，另行通知)
+<br>
 
 
 ### 四、招生對象:
 國內高中、職在學學生，每班招收上限30名。各班人數未招滿20人，則取消課程。
 
+<br>
+
 ### 五、課程費用:
 每人酌收500元講師費用，低收入戶或中低收入戶學生出示證明，可免收報名費。
 
+### 六、主辦單位:
+國防大學理工學院資訊工程學系
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cp018653/camp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
