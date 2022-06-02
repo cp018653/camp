@@ -1,6 +1,10 @@
 # <center>2022國防大學理工學院資工系</center>
 ## <center>小心駭客盯上你-資訊安全活動營</center>
 
+img{
+    display: block;
+  margin: 0 auto;
+}
 
 ### 一、活動宗旨:
 
