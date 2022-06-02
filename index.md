@@ -1,11 +1,6 @@
 # <center>2022國防大學理工學院資工系</center>
 ## <center>小心駭客盯上你-資訊安全活動營</center>
 
-img{
-    display: block;
-  margin: 0 auto;
-}
-
 ### 一、活動宗旨:
 
 在我們的生活中，有許多事情都是在虛擬的網路世界上處理，舉凡購物消費、投資理財，或是社交聯繫等等，生活越發地便利。  
@@ -130,6 +125,6 @@ img{
 1.	兩日課程皆有簽到並完成課堂任務的學生，可獲得修課證明乙張。
 2.	主辦單位保有修改及終止本活動之權力。  
 
-<div class="content">
+<div align="center">
 <img src="https://i.imgur.com/f7x3Rv4.jpg">
 </div>
