@@ -126,4 +126,4 @@
 1.	兩日課程皆有簽到並完成課堂任務的學生，可獲得修課證明乙張。
 2.	主辦單位保有修改及終止本活動之權力。  
 
-<img src="images/[dinosaur.jpg](https://i.imgur.com/f7x3Rv4.jpg)">
+<img src="https://i.imgur.com/f7x3Rv4.jpg">
